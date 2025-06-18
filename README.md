@@ -1,28 +1,8 @@
 <h1 align="center">👋 Hi, I'm Muhammad Saad</h1>
 
 <p align="center">
-  <strong>Python Developer</strong> | AI | Machine Learning Enthusiast  
+  <strong>Python Developer</strong> | Artificial Intelligence | Machine Learning Enthusiast  
 </p>
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Location" width="20" />
-  &nbsp;Lahore, Pakistan &nbsp;&nbsp;&nbsp;
-  <a href="mailto:muhammadsaadi92.786@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" />
-  </a>
-  &nbsp;muhammadsaadi92.786@gmail.com
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-saad-92ra" target="_blank" style="text-decoration:none !important;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a>
-     
-  <a href="https://github.com/MuhammadSaad92" target="_blank" style="text-decoration:none !important;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" />
-  </a>
-</p>
-
 
 ---
 
@@ -75,11 +55,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad92&show_icons=true&theme=radical&hide=stars&card_width=360" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical&card_width=360" width="48%" />
 </p>
 
 ---
 
+### 📊 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical&card_width=360" width="48%" />
+</p>
+
+---
 ### 🔥 Most Used Languages
 
 <p align="center">
@@ -90,4 +75,28 @@
 
 ### 📫 Let's Connect
 
-If you're looking to collaborate, build something exciting, or discuss Python/Machine Learning — feel free to reach out!
+<p align="center">
+  If you're looking to collaborate, build something exciting, or discuss Python/Machine Learning — feel free to reach out!
+</p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Location" width="20" />
+  &nbsp;Lahore, Pakistan &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-saad-92ra" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MuhammadSaad92" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+   <a href="mailto:muhammadsaadi92.786@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="30" />
+  </a>
+</p>
+
+
+
