@@ -21,10 +21,6 @@
   <a href="https://github.com/MuhammadSaad92" target="_blank" style="text-decoration:none !important;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" />
   </a>
-     
-  <a href="https://app.slack.com/client/T01VBEXA1F0/D08BN63JTA7" target="_blank" style="text-decoration:none !important;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="Slack" width="30" />
-  </a>
 </p>
 
 
@@ -78,8 +74,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad92&show_icons=true&theme=radical&hide=stars" width="48%" style="height:165px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical" width="48%" style="height:155px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad92&show_icons=true&theme=radical&hide=stars" width="48%" style="height:155px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical" width="48%" style="height:165px;" />
 </p>
 
 ---
