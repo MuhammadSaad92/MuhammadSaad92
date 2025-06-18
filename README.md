@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad92&show_icons=true&theme=radical&hide=stars" width="48%" style="height:165px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical" width="48%" style="height:165px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical" width="48%" style="height:155px;" />
 </p>
 
 ---
@@ -88,14 +88,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaad92&layout=compact&theme=radical" width="45%" style="height:210px; />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadSaad92/MuhammadSaad92/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
