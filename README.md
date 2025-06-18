@@ -74,8 +74,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad92&show_icons=true&theme=radical&hide=stars" width="48%" style="height:155px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical" width="48%" style="height:165px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaad92&show_icons=true&theme=radical&hide=stars" width="48%" style="height:165px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad92&theme=radical" width="48%" style="height:160px;" />
 </p>
 
 ---
