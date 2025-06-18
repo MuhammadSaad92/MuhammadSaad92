@@ -83,7 +83,7 @@
 ### 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaad92&layout=compact&theme=radical" width="45%" style="height:210px; />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaad92&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
